@@ -10,7 +10,7 @@ SPSS is utilized for calculating odds ratios, and the results are organized and 
 
 ## Video Demonstration
 
-Watch the video below for a detailed walkthrough of the workflow:
+Watch the video below for a walkthrough of the workflow
 
 [![IBM SPSS Workflow for PhD Research](https://img.youtube.com/vi/HJ3y4MinSEg/maxresdefault.jpg)](https://youtu.be/HJ3y4MinSEg)
 
