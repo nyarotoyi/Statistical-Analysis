@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository showcases an IBM SPSS workflow used for PhD research in Public Health. The dataset includes information on fishermen and miners from Migori County.
+This repository showcases an IBM SPSS workflow used for PhD research in Public Health(I was a Data  Analysis Assistant). The dataset includes information on fishermen and miners from a county in the lake region.
 
 We analyze the odds of contracting various diseases such as pneumonia and flu based on demographic factors like age, income level, access to health information, and working conditions.
 
